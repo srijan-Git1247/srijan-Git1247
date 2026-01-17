@@ -19,7 +19,6 @@ I build **developer-facing tools**, **editor extensions**, and **automation syst
 
 **Languages**
 - C#, C++, Python, SQL  
-- Familiar: C, JavaScript
 
 **Game & Engine Tools**
 - Unity (Editor extensions, custom inspectors, tooling pipelines)
@@ -27,7 +26,7 @@ I build **developer-facing tools**, **editor extensions**, and **automation syst
 - Computer Graphics fundamentals (rasterization, transforms, pipelines)
 
 **Software Engineering**
-- .NET, ASP.NET
+- .NET, ASP.NET, WPF programming
 - Git, GitHub
 - Automation & scripting
 - Data handling & serialization
